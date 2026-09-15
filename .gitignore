@@ -1,0 +1,9 @@
+# Impeccable design skill — ephemeral/local artifacts (tracked config stays in .impeccable/)
+**/skills/impeccable/scripts/bin/
+.impeccable/live/
+.impeccable/history/
+.impeccable/config.local.json
+.impeccable/critique/*
+!.impeccable/critique/ignore.md
+**/.impeccable/hook.cache.json
+**/.impeccable/hook.pending.json
